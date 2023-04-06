@@ -1,6 +1,7 @@
 {
   "usersList": [
     {
+      "id": 1,
       "email": "cruiser@gmail.com",
       "userItemsInventoryList": [
         {
@@ -113,6 +114,7 @@
       "ticketsSupportClosed": []
     },
     {
+      "id": 2,
       "email": "viduck27@gmail.com",
       "userItemsInventoryList": [
         {
