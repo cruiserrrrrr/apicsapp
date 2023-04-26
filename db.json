@@ -2333,5 +2333,22 @@
       "title": "How to buy skins?",
       "information": "In maximus metus non velit pellentesque, sed bibendum dui tincidunt. Praesent aliquet velit non magna pulvinar, quis dapibus tortor laoreet. Nam pellentesque dui lacinia nisi fermentum blandit. Vestibulum sed vestibulum tortor. Nulla venenatis mauris vitae elit laoreet, vel posuere sapien volutpat. Sed mattis venenatis dolor, eleifend iaculis diam pellentesque quis. In tempus nunc a lacus ultrices, non mollis diam porta. Duis sit amet quam maximus, congue lorem vel, venenatis neque. Pellentesque vel condimentum dui."
     }
+  ],
+  "addTGData":[
+    {
+      "title":"Open telegram, search a bot 'Get my id', or",
+      "link":"https://t.me/getmyid_bot",
+      "img":"https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/cs-app%20tg/part1.png?raw=true"
+    },
+    {
+      "title":"Open chat add and paste '/start'.",
+      "link":"",
+      "img":"https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/cs-app%20tg/part3.png?raw=true"
+    },
+    {
+      "title":"Copy your 'User ID'",
+      "link":"",
+      "img":"https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/cs-app%20tg/part4.png?raw=true"
+    },
   ]
 }
