@@ -2350,5 +2350,39 @@
       "link":"",
       "img":"https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/cs-app%20tg/part4.png?raw=true"
     }
-   ]
+   ],
+  "balanceData":[
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/01-3348369e-340x306.png?raw=true",
+        "title": "Bank card"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/5968601.png?raw=true",
+        "title": "ApplePay"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/icon_sber-01.png?raw=true",
+        "title": "Sber"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/24134314.png?raw=true",
+        "title": "ЮMoney"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/WebMoney.png?raw=true",
+        "title": "WebMoney"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/where-can-find-this-bitcoin-logo-transparent-png-2.png?raw=true",
+        "title": "BitCoin"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/tether-usdt-logo.png?raw=true",
+        "title": "USDT"
+    },
+    {
+        "img": "https://github.com/cruiserrrrrr/img/blob/cruiserrrrrr/balance%20img/Ethereum-Logo.wine.png?raw=true",
+        "title": "Ethereum"
+    }
+  ]
 }
